@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Teganj
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning python
+- 📫 You can find me on LinkedIn - https://www.linkedin.com/in/teganjennings/
